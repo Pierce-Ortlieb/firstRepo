@@ -25,14 +25,3 @@ def areaOfTriangle(base, height):
 
 def areaOfTrapezoid(base1, base2, height):
     return 0.5 * (base1 + base2) * height
-
-
-# I need a function that makes a new HTTP request
-
-def makeHTTPRequest(url):
-    return "HTTP request made to " + url
-
-# I need a function that makes a new HTTPS request
-
-def makeHTTPSRequest(url):
-    return "HTTPS request made to " + url
