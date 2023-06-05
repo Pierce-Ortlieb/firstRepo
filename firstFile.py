@@ -1,4 +1,4 @@
-# First commit
+# doing some work in the work zone - not complete yet!
 # All functions below were created by CoPilot! 
 
 # I need a function that calculates area of a circle
