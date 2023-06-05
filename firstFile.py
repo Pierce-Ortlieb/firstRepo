@@ -20,3 +20,8 @@ def areaOfRectangle(length, width):
 
 def areaOfTriangle(base, height):
     return 0.5 * base * height
+
+# I need a function that calculates area of a trapezoid
+
+def areaOfTrapezoid(base1, base2, height):
+    return 0.5 * (base1 + base2) * height
