@@ -1,4 +1,4 @@
-# First commit
+# doing some work in the work zone - not complete yet!
 # All functions below were created by CoPilot! 
 
 # I need a function that calculates area of a circle
@@ -25,14 +25,3 @@ def areaOfTriangle(base, height):
 
 def areaOfTrapezoid(base1, base2, height):
     return 0.5 * (base1 + base2) * height
-
-
-# I need a function that makes a new HTTP request
-
-def makeHTTPRequest(url):
-    return "HTTP request made to " + url
-
-# I need a function that makes a new HTTPS request
-
-def makeHTTPSRequest(url):
-    return "HTTPS request made to " + url
